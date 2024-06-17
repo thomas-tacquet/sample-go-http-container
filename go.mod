@@ -1,3 +1,3 @@
 module github.com/thomas-tacquet/sample-go-http-container
 
-go 1.22.4
+go 1.22
